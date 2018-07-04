@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e8349bcdb27c7224797c16c469f9c689
+timeCreated: 1497411121
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Shoot1: {fileID: 1715309108702304, guid: 424539634a367db469fad1de7e1941c4, type: 2}
+  - Shoot2: {fileID: 1881473429549474, guid: 1b34f827c25dcd04da33cdc6dde83c56, type: 2}
+  - Shoot3: {fileID: 1768920660596496, guid: e6dd1060b1e206d4d970862596cd24c4, type: 2}
+  - Shoot4: {fileID: 1199890079022586, guid: f3f92077434d3e84aa66fa9b18e199a1, type: 2}
+  - Shoot5: {fileID: 1556646026570748, guid: 6bd48274d91080f44ba9cf468bac6f89, type: 2}
+  - Shoot6: {fileID: 1324847088690940, guid: 48b2a926c6db3024abb64aeb51469dfc, type: 2}
+  - Shoot7: {fileID: 1911755078003748, guid: b79145048676cb7488e876728e0a4b77, type: 2}
+  - Shoot8: {fileID: 1427394495449736, guid: 7a4b74d889c639e40a3d40cd9ffbab47, type: 2}
+  - Shoot9: {fileID: 1818912436891064, guid: c77bdd38ee04d3c4a90f05eb5a805b92, type: 2}
+  - Shoot10: {fileID: 1878230255404578, guid: cd4ccc8927ff17146b5f651f5090f78b, type: 2}
+  - Shoot11: {fileID: 1134922158834060, guid: 968b2adf8c9f5244393d7a490248e70e, type: 2}
+  - Shoot12: {fileID: 1321425719432100, guid: 64a2f0ee41114ae48b7b956a30b1bc17, type: 2}
+  - Shoot13: {fileID: 1688953213439960, guid: 7d6e3069c14bcb64688b99b05c33ed1d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
